@@ -1,0 +1,28 @@
+---
+title: 'Prompt Engineering'
+date: '2025-11-05'
+active: true
+image: 'https://www.freepik.es/fotos-premium/herramientas-asistentes-virtuales-ia-generativas-ingenieros-rapidos-usuarios-finales-comodidad_305482243.htm#fromView=search&page=1&position=5&uuid=00326423-4779-4dd2-a76d-8128cf6e4f58&query=prompt+engineering'
+creator: 'Iván Martínez'
+category: 'inteligencia artificial'
+tags:
+    - 'IA'
+    - 'prompt'
+    - 'chatbots'
+    - 'automatización'
+    - 'lenguaje natural'
+synonyms:
+    - ingeniería de prompts
+    - diseño de instrucciones
+    - optimización de entradas
+translation: 'Ingeniería de Prompts'
+phrase: 'La ingeniería de prompts consiste en diseñar instrucciones precisas para obtener mejores respuestas de una IA.'
+difficulty: 'intermedio'
+status: 'en desarrollo'
+language: 'es'
+related:
+    - 'machine learning'
+    - 'procesamiento del lenguaje natural'
+    - 'modelos generativos'
+source: 'https://en.wikipedia.org/wiki/Prompt_engineering'
+---
